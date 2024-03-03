@@ -4,4 +4,18 @@
   padding: 2rem;
   text-align: center;
 }
+.post{
+  width: 400px;
+  margin: 30px auto;
+}
 
+.title{
+  color: white;
+  background-color: red;
+
+}
+
+.footer{
+  text-align: left;
+color: green;
+}
