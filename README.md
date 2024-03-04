@@ -49,7 +49,7 @@ npm start
 ```
 cd client
 
-npm start
+npm run dev
 
 ```
 ## Usage
@@ -66,9 +66,13 @@ Access the application at http://localhost:3001 (or as configured) in your web b
 ***nodemon*** (for development): A utility that monitors changes and automatically restarts the server during development.
 ### Frontend:
 
+***Vite and ***
 ***React:*** JavaScript library for building user interfaces.
+
 ***axios:*** HTTP client for making API requests.
+
 ***react-router-dom:*** Routing library for React applications.
+
 ### Contributing
 Feel free to contribute to this project. Follow these steps:
 
